@@ -64,7 +64,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run main.py
 
-<img width="636" height="115" alt="streamlit run" src="https://github.com/user-attachments/assets/b7575459-c362-4158-803e-03d75298fc6c" />
 
 
 ```
