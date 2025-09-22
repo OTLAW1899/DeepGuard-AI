@@ -7,6 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 DeepGuard AI is a **Streamlit-powered application** designed to detect and analyze AI-generated (deepfake) content across multiple modalities:  
+
 ***Text***  - ***Images***  - ***Audio***  - ***Video***
 
 It uses **machine learning–enhanced detection** methods to evaluate the likelihood that content was AI-generated, giving users a clear and interactive way to verify authenticity.
