@@ -63,6 +63,9 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run main.py
+
+<img width="636" height="115" alt="streamlit run" src="https://github.com/user-attachments/assets/b8730516-cc90-430d-adca-8beee79b4773" />
+
 ```
 
 ---
@@ -85,6 +88,16 @@ deepguard-ai/
 * Upload an **image, audio, or video** to analyze multimedia authenticity.
 * Paste **raw text** directly for fast detection.
 * View **detailed JSON results** in the expandable section.
+
+  <img width="960" height="405" alt="90 5% AI-GENERATED AUDIO" src="https://github.com/user-attachments/assets/6ac5bbdc-661e-4b01-9b0c-cefe6a185d04" />
+  <img width="956" height="432" alt="AI GENERATED CONTENT" src="https://github.com/user-attachments/assets/b24c9f02-0a0e-4d4d-891b-7752d7bac127" />
+  <img width="960" height="421" alt="AI GENERATED TEXT" src="https://github.com/user-attachments/assets/7150b25a-2015-4d61-aa69-032a90bbe767" />
+  <img width="954" height="415" alt="REAL PICTURE" src="https://github.com/user-attachments/assets/484f2785-e91d-4c43-927b-5415629e462c" />
+  
+
+
+
+
 
 ---
 
