@@ -64,7 +64,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run main.py
 
-D:\streamlit run..PNG
 
 ```
 
