@@ -64,8 +64,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run main.py
 
-![streamlit run](https://github.com/user-attachments/assets/ae0a0cdc-6c7c-4854-b6f7-3c501f6a58f5)
-
 ```
 
 ---
